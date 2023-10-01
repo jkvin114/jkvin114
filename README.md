@@ -3,7 +3,8 @@
 - I`m an MSCS student at the University of Massachusetts, Amherst, graduating in Fall 2023.
 - Last summer I worked as a back-end software engineer at [Odin Inc.](https://odin-inc.com/), a Point-of-Sale solution company for schools.
 - [Snakes-and-Ladders-RPG](https://jkvin114.github.io/Snakes-and-Ladders-RPG-wiki/index.html) is my personal web multiplayer boardgame project created using Node.js and MongoDB.
-
+- [Top500Movies](https://github.com/jkvin114/top500movies-nextjs) is a website that displays statistics of the top 500 movies of all-time, created with Next.js and React.
+- 
 <!--
 **jkvin114/jkvin114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
