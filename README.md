@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I`m an MSCS student at the University of Massachusetts Amherst, graduating in Fall 2023.
-- Last summer I worked as a back-end software engineer at 🔨[Odin Inc.](https://odin-inc.com/), a Point-of-Sale solution company for schools.
+- Last summer I worked as a back-end software engineer intern at 🔨[Odin Inc.](https://odin-inc.com/), a Point-of-Sale solution company for schools.
     - I developed back-end APIs in C#, ASP.NET, and MySQL for managing user transactions and database access for POS applications used by 30K+ patrons. 
 - 🎲[Snakes-and-Ladders-RPG](https://jkvin114.github.io/Snakes-and-Ladders-RPG-wiki/index.html) is my personal web multiplayer boardgame project created using Node.js and MongoDB.
 - 🎬️[Top500Movies](http://ec2-34-202-98-227.compute-1.amazonaws.com:3000) is a website that displays statistics of the top 500 movies of all time, created with Next.js and React.
