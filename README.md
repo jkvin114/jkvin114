@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- I graduated MSCS in Feb 2024 at the University of Massachusetts Amherst.
+- Master's in Computer Science at the University of Massachusetts Amherst.
 - Backend software engineer/ML engineer intern at [Odin Inc.](https://odin-inc.com/).
-- 🎲[Snakes-and-Ladders-RPG](https://jkvin114.github.io/Snakes-and-Ladders-RPG-wiki/index.html) is a web multiplayer boardgame project created using Node.js and MongoDB.
-- ⌛️[ChronoDB](https://jkvin114.github.io/chronodb-lite) is a timeline database maker, with chronological data visualization options.
+- Personal projects:
+  - 🎲[Snakes-and-Ladders-RPG](https://jkvin114.github.io/Snakes-and-Ladders-RPG-wiki/index.html) is a web multiplayer boardgame project created using Node.js and MongoDB.
+  - ⌛️[ChronoDB](https://jkvin114.github.io/chronodb-lite) is a timeline database maker, with chronological data visualization options.
 
 <!--
 **jkvin114/jkvin114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
