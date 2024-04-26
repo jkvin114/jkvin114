@@ -3,7 +3,7 @@
 - Master's in Computer Science at the University of Massachusetts Amherst.
 - Backend software engineer/ML engineer intern at [Odin Inc.](https://odin-inc.com/).
 - Personal projects:
-  - 🎲[Snakes-and-Ladders-RPG](https://jkvin114.github.io/Snakes-and-Ladders-RPG-wiki/index.html) is a web multiplayer boardgame project created using Node.js and MongoDB.
+  - 🎲[Snakes-and-Ladders-RPG](https://jkvin114.github.io/Snakes-and-Ladders-RPG-wiki/index.html) is a web multiplayer boardgame project created using React, Node.js, and MongoDB.
   - ⌛️[ChronoDB](https://jkvin114.github.io/chronodb-lite) is a timeline database maker, with chronological data visualization options.
 
 <!--
